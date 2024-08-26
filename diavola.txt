@@ -8,4 +8,8 @@ Ingredients:
 * 5 Fresno or Calabrian chili pepper
 * 2 basil leaves, cut into strips
 * Semolina flour, for dusting the pizza peel
+<<<<<<< HEAD
 * 1 tsp sambal
+=======
+* chilli flakes
+>>>>>>> spicy-experiments

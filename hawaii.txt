@@ -8,4 +8,8 @@ Ingredients:
 * 4 slices salted turkey bacon, cooked and crumbled
 * 2 slices salted turkey bacon, cooked and crumbled
 * 4 sliced chili peppers
+<<<<<<< HEAD
 * 1 madame jeanette pepper
+=======
+* 2 sliced jalapeno peppers
+>>>>>>> spicy-experiments
