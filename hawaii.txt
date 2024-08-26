@@ -5,6 +5,10 @@ Ingredients:
 * 1 and 1/2 cups (6oz or 168g) shredded  or crumbled mozzarella cheese
 * 1/2 cup (75g) cooked turkey ham sliced or chopped
 * 1/2 cup (82g) fresh pineapple chunks
+<<<<<<< HEAD
+* 4 slices salted turkey bacon, cooked and crumbled
+=======
 * 2 slices salted turkey bacon, cooked and crumbled
+>>>>>>> 073cebe8f2dc892d038a11e49c7422f29d2e7cbd
 * 4 sliced chili peppers
 * 1 madame jeanette pepper
